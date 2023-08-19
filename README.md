@@ -1,5 +1,5 @@
 # Automatic Children Story Video Generation 
-Research project for my Master of Engineering degree.
+Research project for my Master of Engineering degree at the University of Cambridge, supervised by Dr. Samuel Albanie.
 
 For full report, please see [here](Final_report.pdf).
 
