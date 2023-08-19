@@ -1,10 +1,11 @@
 # Automatic Children Story Video Generation 
 Research project for my Master of Engineering degree.
 
+For full report, please see [here](Final_report.pdf).
 
 ## Technical Abstract
 
-In the dynamic realm of Artificial Intelligence (AI), we explore the potential of combining the functionalities of various AI models to automate the creation of engaging children story videos. Our research centres on integrating text- to-image denoising diffusion models, language models, and speech synthesis models to form a singular creative video output.
+In the dynamic realm of Artificial Intelligence (AI), we explore the potential of combining the functionalities of various AI models to automate the creation of engaging children story videos. Our research centres on integrating text-to-image denoising diffusion models, language models, and speech synthesis models to form a singular creative video output.
 
 Initially, we employ Stable Diffusion for image generation, OpenAI’s GPT-3 for story script generation, and Play.ht’s text-to-speech service for speech synthesis. Our preliminary findings highlight a need for improvement in image generation, particularly in **maintaining character consistency**. Manual intervention is also required for image prompt creation and optimal image selection, issues that we aim to resolve.
 
